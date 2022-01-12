@@ -1,6 +1,6 @@
-[submodule "tha-server"]
-	path = tha-server
-	url = git@github.com:hcaula/tha-server.git
 [submodule "tha-client"]
 	path = tha-client
 	url = git@github.com:hcaula/tha-client.git
+[submodule "tha-server"]
+	path = tha-server
+	url = git@github.com:hcaula/tha-server.git
