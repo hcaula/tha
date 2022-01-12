@@ -17,10 +17,10 @@ It's a [client-side rendered application](https://github.com/hcaula/tha-client),
 
 ### Quick start
 
-1. Update the git submodule repositories:
+1. Clone and update the git submodule repositories:
 
 ```sh
-git submodule update
+git submodule update --init --recursive --remote --merge
 ```
 
 2. Go the the server repository and install its dependencies:
